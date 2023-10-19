@@ -71,5 +71,5 @@ resetpower - 𝑇𝑜 𝑟𝑒𝑠𝑒𝑡 𝑟𝑒𝑛𝑎𝑚𝑖𝑛𝑔 𝑐
 
 
 #### 🔗 𝘿𝙀𝙋𝙇𝙊𝙔 𝙃𝙀𝙍𝙀
-- [ʜᴇʀᴏᴋᴜ](https://heroku.com/deploy?template=https://github.com/ThiruXD/ATL-Rename-Bot)
+- [ʜᴇʀᴏᴋᴜ](https://heroku.com/deploy?template=https://github.com/Potatochip147/noting)
 - [ᴋᴏyᴇʙ](https://app.koyeb.com/deploy?type=git&repository=github.com/ThiruXD/ATL-Rename-Bot&branch=main&name=pvtrename)
